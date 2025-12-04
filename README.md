@@ -98,3 +98,6 @@ This project was built upon the foundation provided by the annual data collectio
 
 * **Data Source & Inspiration:** The dataset and the inspiration for the analysis methodology and visualisation style are credited to the **Stack Overflow Developer Survey**.
 * **Official Survey Link:** [https://survey.stackoverflow.co/](https://survey.stackoverflow.co/)
+
+---
+*Created by Felix Ocham  |  [Linkedin Profile](https://www.linkedin.com/in/felix-o-703987a7/)*
